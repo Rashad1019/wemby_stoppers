@@ -13,7 +13,8 @@ This project analyzes how NBA teams have defended Victor Wembanyama across his f
 - **Technical readers**: The same report contains methodology, statistical tables, and a regression overview with key variables and coefficients.
 
 ### Files & Links
-- **Summary / Full Report**: `wembanyama-report.html`
+- **🌐 Live Website**: https://wemby-stoppers-4.onrender.com/
+- **Summary / Full Report**: `index.html` (or `wembanyama-report.html`)
 - **Data sources (cited in report)**:
   - NBA.com (advanced stats)
   - StatMuse (aggregate statistics)
@@ -24,8 +25,9 @@ This project analyzes how NBA teams have defended Victor Wembanyama across his f
 - Statistical methodology described in-report (multiple regression, clustering, pace analysis)
 
 ### Setup / Usage
-1. No installation required.
-2. Open `wembanyama-report.html` in any modern web browser.
+1. **View Online**: Visit https://wemby-stoppers-4.onrender.com/ for the live website
+2. **Local Access**: Open `index.html` in any modern web browser
+3. No installation required for either option
 
 ### How to Interpret Results
 - Use the four defensive archetypes and tiered decision framework to align your scheme with available personnel.

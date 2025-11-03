@@ -21,7 +21,7 @@
 ## Step 3: Deploy
 1. Click "Create Static Site"
 2. Wait 2-3 minutes for deployment
-3. Your site will be live at: `https://your-site-name.onrender.com`
+3. Your site is live at: https://wemby-stoppers-4.onrender.com/
 
 ## Step 4: Custom Domain (Optional)
 1. Go to site settings → "Domains"
@@ -40,5 +40,8 @@
 - `README.md` - Project documentation  
 - `simiple_universal_prd_template.md` - Additional content
 
+## Live Site URL:
+https://wemby-stoppers-4.onrender.com/
+
 ## Expected URL Format:
-`https://wemby-stoppers.onrender.com` (Render chooses the subdomain name)
+`https://wemby-stoppers-4.onrender.com` (Render chooses the subdomain name)
